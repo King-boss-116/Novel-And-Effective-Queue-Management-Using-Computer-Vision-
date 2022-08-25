@@ -11,7 +11,9 @@ Steps to run:
 3.There are two options 
 
   3.1 Either you run the video stored in folder(Here by name queue.mp4)
-  or 3.2 You enable camera and record your video and get real time experience.
+  or 
+  
+  3.2 You enable camera and record your video and get real time experience.
   
   For 3.2 you need to modify line 5
   
